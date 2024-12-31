@@ -139,33 +139,8 @@ Use the following testers to validate your implementation:
 
 ---
 
-## Contributions  
-
-This project is part of the 1337 School curriculum and is intended for educational purposes. Contributions are not accepted, but feel free to fork and experiment with it!  
-
----
-
-## Author  
-
-Developed by **mkatfi** as part of the curriculum at **1337 School**, a member of the 42 Network.  
-
----
-
-## License  
-
-This project is subject to the rules and policies of 1337 School. Redistribution or plagiarism is strictly prohibited.  
-
----
-
-## Acknowledgments  
-
-Special thanks to 1337 School for their innovative approach to learning and for fostering an environment that challenges students to grow and excel.  
-
 ---
 ```
-SUMMARY = The project will make you sort data on a stack, with a limited set of instructions, using the lowest number of actions. To succeed you will have to manipulate various types of algorithms and choose the most appropriate solution for an optimized data sorting.
-
-
 RULES = The game is composed of 2 stacks named A and B.
 To start with:
 A contains a random number of either positive or negative numbers without any duplicates.
@@ -190,7 +165,6 @@ rrr - rrr: reverse rotate a and reverse rotate b at the same time.
 
 
 TESTING
-
 
 Change the <number_of_random_args> with any number u want!
 make test ARG=<number_or_random_args>
